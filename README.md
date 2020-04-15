@@ -12,8 +12,8 @@ Make sure you have installed the python library `mido` from PIP before using thi
 | `semitones to transpose` | Set this number accordingly so the song is in range of the graph |
 
 ### Examples
-`python3 graph.py examples/allstar.mid 1 125 19`
-`python3 graph.py examples/astley.mid 4 125 13`
+- `python3 graph.py examples/allstar.mid 1 125 19`
+- `python3 graph.py examples/astley.mid 4 125 13`
 
 ## Desmos Playback
 1. In graph settings, make sure both the X and Y scale are 0 to 100 exactly
@@ -29,9 +29,9 @@ Make sure you have installed the python library `mido` from PIP before using thi
 https://www.desmos.com/accessibility#audio-trace
 
 ## Examples
-[All Star I](https://www.desmos.com/calculator/ve3erfwyxl)
-[All Star II](https://www.desmos.com/calculator/rhti49tgkg)
-[Misc. songs](https://www.desmos.com/calculator/fu2s0jmc35)
+- [All Star I](https://www.desmos.com/calculator/ve3erfwyxl)
+- [All Star II](https://www.desmos.com/calculator/rhti49tgkg)
+- [Misc. songs](https://www.desmos.com/calculator/bldphlrseb)
 
 ## PRs
 Pull Requests are **highly encouraged**! This was quickly hacked together by me
